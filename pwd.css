@@ -1,0 +1,14 @@
+
+  #password {
+    width: 230px;
+    padding: 10px;
+    margin: 10px 0 5px 0;
+  }
+
+  #strength {
+    height: 5px;
+    width: 20%;
+    padding: 20px;
+    display: block;
+    background-color: #ccc;
+  }
